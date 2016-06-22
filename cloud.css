@@ -1,0 +1,48 @@
+.wrap{
+  background: URL(image4.jpg);
+  overflow: hidden;
+}
+ul li{
+  display: inline;
+  margin-left: 0;
+  margin-right: 30px;
+}
+.abc{
+  margin-left: 0;
+  margin-right: 0;
+}
+a{
+  text-decoration: none;
+  color: brown;
+  text-shadow: 2px 1px 5px grey;
+}
+nav li{
+  margin-bottom: 0;
+  font-size: 14px;
+  margin-left: 0;
+}
+.cde{
+  font-size: 30px;
+  margin-bottom: 0;
+
+}
+.wrap1{
+  text-align: center;
+  color: green;
+  font-family: cursive;
+  font-size: 35px;
+  background: URL(main2.jpg);
+  overflow: hidden;
+  text-shadow: 3px 2px 5px red;
+}
+.meta1{
+  text-decoration: none;
+  text-align: left;
+  font-size: 14px;
+  color: red;
+  font-family: cursive;
+  text-shadow: 2px 1px 5px green;
+}
+.wrap3{
+  background: URL(colour.jpg);
+}
